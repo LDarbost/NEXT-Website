@@ -446,6 +446,12 @@ width: 100%;
     cursor: pointer;
 }
 
+ .services__card:not(:hover) {
+    transform: scale(0.925);
+    transition: 0.2s ease-out;
+    
+} 
+
 
     
 
