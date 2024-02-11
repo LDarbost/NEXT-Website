@@ -1,6 +1,7 @@
 # NEXT Website
 
-Foobar is a Python library for dealing with word pluralization.
+This website is my first project.
+CSS , JS , HTML 
 
 ## Installation
 
